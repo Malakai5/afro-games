@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+div.user-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+label{
+    font-size: large;
+    color: white;
+    font-weight:bold
+}
+
+.text-box{
+    font-size: x-large;
+    height: 20%;
+    width: 30%;
+}
